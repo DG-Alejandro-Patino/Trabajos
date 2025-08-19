@@ -22,7 +22,9 @@
 	border-radius: 3px 0 0 3px;
 }
 html, body {
-	with: 612px;
-        margin: 0 auto;
+	width: 1334px;
+    height: 750px;
+    margin-top: auto;
+    margin-left: auto;
 	overflow: hidden
 }
