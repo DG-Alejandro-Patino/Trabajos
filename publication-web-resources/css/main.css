@@ -23,8 +23,7 @@
 }
 html, body {
 	width: 1334px;
-    height: 750px;
-    margin-top: auto;
-    margin-left: auto;
+    margin: 0 auto;
 	overflow: hidden
 }
+
